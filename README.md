@@ -65,7 +65,6 @@ Atenciosamente.
                     
 </table>
 <br>
-<br>
  “O sucesso é a soma de pequenos esforços repetidos diariamente.”
 Robert Collier (1885-1950), escritor e autor de “The Secret of the Ages”
        
