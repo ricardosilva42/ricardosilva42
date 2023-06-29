@@ -17,13 +17,6 @@ aprimorando minhas habilidades em linguagens/tecnologias como JavaScript, Python
 PHP, Node.js, MySQL, PostgreSQL, React Native e, além disso, estou explorando Ruby on
 Rails.  
    <p></p>
-Em 2010, fundei a Coruja-Net em Alagoas, Brasil, a qual está em operação até hoje.
-Trata-se de um provedor de internet com uma equipe modesta, que chegou a contar
-com 8 colaboradores, localizada em Maceió (AL) e em Marechal Deodoro (AL). Desde
-meados de 2022, venho atuando como Desenvolvedor de Software e, além disso,
-estabeleço estratégias e protocolos para garantir que nossos projetos sejam entregues
-dentro do prazo e do orçamento.
-   <p></p>
 Nasci em Salvador (Bahia, Brasil), tenho 33 anos e sou do signo de Aquário. Sou solteiro,
 apaixonado por livros, cinema, academia e sou pai de um pet chamado Billy-Bi, um
 shih-tzu. Cursei tecnologia Wireless/Redes pelo SENAI/AL. Desde jovem, sempre tive
